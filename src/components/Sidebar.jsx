@@ -32,10 +32,7 @@ import {
         <div className="p-6">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
-              <div className="w-8 h-8">
-                <img src="Logo.png" alt="Logo" />
-              </div>
-              <span className="text-xl font-bold text-logocl">Vasitum</span>
+              <span className="text-2xl font-bold text-logocl">WeHR</span>
             </div>
             <button onClick={onClose} className="lg:hidden p-2">
               <X className="w-6 h-6" />
